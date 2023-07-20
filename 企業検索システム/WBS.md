@@ -2,11 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .blue-bg {
-      background-color: blue;
-    }
-  </style>
 </head>
 <body>
 　<tr>

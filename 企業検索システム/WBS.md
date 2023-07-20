@@ -1,3 +1,8 @@
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 <table>
   <tr>
     <th rowspan="2">No</th>
@@ -32,8 +37,8 @@
   <td colspan="2">企画書作成</td>
   <td>5月6日</td>
   <td>5月14日</td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
+  <td class="blue-bg"></td>
   <td></td>
   <td></td>
   <td></td>
@@ -56,7 +61,7 @@
   <td>5月21日</td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
   <td></td>
   <td></td>
   <td></td>
@@ -80,8 +85,8 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
+  <td class="blue-bg"></td>
   <td></td>
   <td></td>
   <td></td>
@@ -104,7 +109,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
   <td></td>
   <td></td>
   <td></td>
@@ -126,7 +131,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
   <td></td>
   <td></td>
   <td></td>
@@ -149,7 +154,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
   <td></td>
   <td></td>
   <td></td>
@@ -172,7 +177,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
   <td></td>
   <td></td>
   <td></td>
@@ -195,12 +200,12 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
+  <td class="blue-bg"></td>
+  <td class="blue-bg"></td>
+  <td class="blue-bg"></td>
+  <td class="blue-bg"></td>
+  <td class="blue-bg"></td>
   <td></td>
   <td></td>
 </tr>
@@ -222,8 +227,8 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
+  <td class="blue-bg"></td>
   <td></td>
 </tr>
 <tr>
@@ -245,7 +250,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
   <td></td>
 </tr>
 <tr>
@@ -268,7 +273,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td class="blue-bg"></td>
 </tr>
 <tr>
   <td>12</td>
@@ -359,3 +364,5 @@
   <td></td>
 </tr>
 </table>
+</body>
+</html>

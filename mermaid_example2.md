@@ -7,7 +7,7 @@ graph TD;
     B-->D;
     C-->D;
 ```
-```Mermaid
+```mermaid
 graph TD;
     A-->B;
     A-->C;
@@ -29,7 +29,7 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 ```
-```Mermaid
+```mermaid
 sequenceDiagram
     participant Alice
     participant Bob
@@ -56,7 +56,7 @@ Active task               :active,  des2, 2014-01-09, 3d
 Future task               :         des3, after des2, 5d
 Future task2               :         des4, after des3, 5d
 ```
-```Mermaid
+```mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title Adding GANTT diagram to mermaid
@@ -86,7 +86,7 @@ Class01 : int chimp
 Class01 : int gorilla
 Class08 <--> C2: Cool label
 ```
-```Mermaid
+```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
 Class03 *-- Class04
@@ -116,7 +116,7 @@ gitGraph
        commit
        commit
 ```
-```Mermaid
+```mermaid
 gitGraph
        commit
        commit
@@ -135,7 +135,7 @@ erDiagram
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
 ```
-```Mermaid
+```mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
@@ -154,7 +154,7 @@ journey
       Go downstairs: 5: Me
       Sit down: 5: Me
 ```
-```Mermaid
+```mermaid
 journey
     title My working day
     section Go to work

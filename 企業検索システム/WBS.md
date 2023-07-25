@@ -32,7 +32,7 @@
   <td colspan="2">企画書作成</td>
   <td>5月6日</td>
   <td>5月14日</td>
-  <td bgcolor=blue></td>
+  <td bgcolor=red></td>
   <td bgcolor=blue></td>
   <td></td>
   <td></td>

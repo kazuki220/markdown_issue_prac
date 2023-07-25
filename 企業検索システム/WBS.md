@@ -32,22 +32,22 @@
   <td colspan="2">企画書作成</td>
   <td>5月6日</td>
   <td>5月14日</td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td style="background-color: blue;">✓</td>
+  <td style="background-color: blue;">✓</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 <tr>
   <td>2</td>
@@ -56,7 +56,7 @@
   <td>5月21日</td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
   <td></td>
   <td></td>
   <td></td>
@@ -80,8 +80,8 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
+  <td style="background-color: blue;">✓</td>
   <td></td>
   <td></td>
   <td></td>
@@ -104,7 +104,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
   <td></td>
   <td></td>
   <td></td>
@@ -126,7 +126,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
   <td></td>
   <td></td>
   <td></td>
@@ -149,7 +149,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
   <td></td>
   <td></td>
   <td></td>
@@ -172,7 +172,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
   <td></td>
   <td></td>
   <td></td>
@@ -195,12 +195,12 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
+  <td style="background-color: blue;">✓</td>
+  <td style="background-color: blue;">✓</td>
+  <td style="background-color: blue;">✓</td>
+  <td style="background-color: blue;">✓</td>
+  <td style="background-color: blue;">✓</td>
   <td></td>
   <td></td>
 </tr>
@@ -222,8 +222,8 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
+  <td style="background-color: blue;">✓</td>
   <td></td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
   <td></td>
 </tr>
 <tr>
@@ -268,7 +268,7 @@
   <td></td>
   <td></td>
   <td></td>
-  <td style="background-color: blue;"></td>
+  <td style="background-color: blue;">✓</td>
 </tr>
 <tr>
   <td>12</td>

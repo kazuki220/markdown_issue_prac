@@ -35,3 +35,33 @@
 ### セクション8：クラス図の完成  
 ・作成したらツールバーなどに「プレビュー」ボタンや「確認」ボタンがある場合は、それをクリックして図をプレビューします。  
 ・作った図は通常、メニューバーやツールバーに「保存」ボタンがあります。それをクリックして、クラス図を保存します。
+
+### 完成例（Class diagrams）
+```mermaid
+---
+title: Animal example
+---
+classDiagram
+    note "From Duck till Zebra"
+    Animal <|-- Duck
+    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
+```
